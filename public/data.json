@@ -1,0 +1,177 @@
+[
+    {
+      "id": 1,
+      "name": "LFC Official Full Membership Voucher",
+      "price": 35.99,
+      "image": "/images/items/1_lfcofficialfullmembershipvoucher.jpg",
+      "category":"membership"
+    },
+    {
+      "id": 2,
+      "name": "LFC Official Mighty Red Membershib Voucher",
+      "price": 20.99,
+      "image": "/images/items/2_lfcofficialmightyredmembershibvoucher.jpg",
+      "category":"membership"
+    },
+    {
+      "id": 3,
+      "name": "LFC Official Teen Red Membership Voucher",
+      "price": 20.99,
+      "image": "/images/items/3_lfcofficialteenredmembershipvoucher.jpg",
+      "category":"membership"
+    },
+    {
+      "id": 4,
+      "name": "LFC Official International Membership Voucher",
+      "price": 19.99,
+      "image": "/images/items/4_lfcofficialinternationalmembershipvoucher.jpg",
+      "category":"membership"
+    },
+    {
+      "id": 5,
+      "name": "LFC Official Light Membership Voucher",
+      "price": 26.99,
+      "image": "/images/items/5_lfcofficiallightmembershipvoucher.jpg",
+      "category":"membership"
+    },
+    {
+      "id": 6,
+      "name": "LFC Liverpool Womens Scarf",
+      "price": 12.00,
+      "image": "/images/items/6_lfcliverpoolwomensscarf.jpg",
+      "category":"scarves"
+    },
+    {
+      "id": 7,
+      "name": "LFC Adults '47 Split Text Cuff Knit Beanie",
+      "price": 25,
+      "image": "/images/items/7_lfcadults47splittextcuffknitbeanie.jpg",
+      "category":"Hats & Beanies"
+    },
+    {
+      "id": 8,
+      "name": "LFC Adults '47 Holocomb Cuff Knit Beanie" ,
+      "price": 25,
+      "image": "/images/items/8_lfcadults47holocombcuffknitbeanie.jpg",
+      "category":"Hats & Beanies"
+    },
+    {
+      "id": 9,
+      "name": "LFC 21/22 Home Badge",
+      "price": 3,
+      "image": "/images/items/9_lfc2122homebadge.jpg",
+      "category":"Badges"
+    },
+    {
+      "id": 10,
+      "name": "LFC Salah Keyring 20/21",
+      "price": 6,
+      "image": "/images/items/10_lfcsalahkeyring2021.jpg",
+      "category":"Keyrings"
+    },
+    {
+      "id": 11,
+      "name": "LFC Alisson Keyring 20/21",
+      "price": 6,
+      "image": "/images/items/11_lfcalissonkeyring2021.jpg",
+      "category":"Keyrings"
+    },
+    {
+      "id": 12,
+      "name": "LFC Owen McVeigh Foundation Keyring",
+      "price": 5,
+      "image": "/images/items/12_lfcowenmcveighfoundationkeyring.jpg",
+      "category":"Keyrings"
+    },
+    {
+      "id": 13,
+      "name": "LFC We're Never Gonna Stop Handheld Flag",
+      "price": 2,
+      "image": "/images/items/13_lfcwerenevergonnastophandheldflag.jpg",
+      "category":"Flags"
+    },
+    {
+      "id": 14,
+      "name": "LFC Mega Pennant",
+      "price": 15,
+      "image": "/images/items/14_lfcmegapennant.jpg",
+      "category":"Flags"
+    },
+    {
+      "id": 15,
+      "name": "LFC Robbo: Now You're Gonna Believe Us - My Story Book",
+      "price": 20,
+      "image": "/images/items/15_lfcrobbonowyouregonnabelieveusmystorybook.jpg",
+      "category":"Books & Media"
+    },
+    {
+      "id": 16,
+      "name": "End Of The Storm Blu-Ray",
+      "price": 17.99,
+      "image": "/images/items/16_endofthestormbluray.jpg",
+      "category":"Books & Media"
+    },
+    {
+      "id": 17,
+      "name": "LFC 20/21 Season Review DVD",
+      "price": 14.99,
+      "image": "/images/items/17_lfc2021seasonreviewdvd.png",
+      "category":"Books & Media"
+    },
+    {
+      "id": 18,
+      "name": "LFC Nike Mens Home Stadium Jersey 21/22",
+      "price": 69.95,
+      "image": "/images/items/18_lfcnikemenshomestadiumjersey2122.jpg",
+      "category":"kit"
+    },
+    {
+      "id": 19,
+      "name": "LFC Nike Mens Home Stadium Goalkeeper Jersey 21/22",
+      "price": 60.95,
+      "image": "/images/items/19_lfcnikemenshomestadiumgoalkeeperjersey2122.jpg",
+      "category":"kit"
+    },
+    {
+      "id": 20,
+      "name": "LFC Nike Mens Away Stadium Jersey 21/22",
+      "price": 75,
+      "image": "/images/items/20_lfcnikemensawaystadiumjersey2122.jpg",
+      "category":"kit"
+    },
+    {
+      "id": 21,
+      "name": "LFC Nike Mens Away Stadium Goalkeeper Jersey 21/22",
+      "price": 70.99,
+      "image": "/images/items/21_lfcnikemensawaystadiumgoalkeeperjersey2122.jpg",
+      "category":"kit"
+    },
+    {
+      "id": 22,
+      "name": "LFC Womens Liverbird Grey Marl Hoody",
+      "price": 30,
+      "image": "/images/items/22_lfcwomensliverbirdgreymarlhoody.jpg",
+      "category":"fashion"
+    },
+    {
+      "id": 23,
+      "name": "LFC Nike Air Max Womens Grey Cropped 1/2 Zip Hoodie",
+      "price": 59.95,
+      "image": "/images/items/23_lfcnikeairmaxwomensgreycropped12ziphoodie.jpg",
+      "category":"fashion"
+    },
+    {
+      "id": 24,
+      "name": "LFC Nike Mens Black Club Hoodie",
+      "price": 80,
+      "image": "/images/items/24_lfcnikemensblackclubhoodie.jpg",
+      "category":"fashion"
+    },
+    {
+      "id": 25,
+      "name": "LFC Nike Mens Red Club Hoodie",
+      "price": 74.95,
+      "image": "/images/items/25_lfcnikemensredclubhoodie.jpg",
+      "category":"fashion"
+    }
+  ]
